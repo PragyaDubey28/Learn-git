@@ -1,7 +1,7 @@
 class Name {
  public static void main (String[] args) {
 
-System.out.println("Pragya");
+System.out.println("Pragya&Tanya");
 
  }
  }
